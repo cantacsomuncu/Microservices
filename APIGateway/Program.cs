@@ -27,5 +27,8 @@ namespace APIGateway
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
+
+
     }
 }
