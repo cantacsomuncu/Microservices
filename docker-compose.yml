@@ -21,7 +21,7 @@ services:
       context: .
       dockerfile: Services/ContactAPI/Contact.API/Dockerfile
     ports:
-      - 9000:9000
+      - 6000:6000
     networks:
       - int_net
 
