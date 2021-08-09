@@ -13,8 +13,8 @@ namespace Contact.API.Services
             return new ContactDTO()
             { 
                 Id = Id,
-                FirstName = "Salih",
-                LastName = "Cantekin"
+                FirstName = "Cantaç",
+                LastName = "Somuncu"
             };
         }
     }
