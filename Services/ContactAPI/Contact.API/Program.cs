@@ -23,6 +23,5 @@ namespace Contact.API
                     webBuilder.UseUrls("http://*:4000");
                     webBuilder.UseStartup<Startup>();
                 });
-
     }
 }
